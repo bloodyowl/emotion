@@ -1,5 +1,11 @@
 # @emotion/styled
 
+## 11.2.2
+
+### Patch Changes
+
+- [`734b36bf`](https://github.com/emotion-js/emotion/commit/734b36bf113032a7e4ac96741f81ebd12a6244d4) [#2199](https://github.com/emotion-js/emotion/pull/2199) Thanks [@FezVrasta](https://github.com/FezVrasta)! - Improved Flow type inference of props for inline functions passed to the `styled` factory.
+
 ## 11.1.5
 
 ### Patch Changes
